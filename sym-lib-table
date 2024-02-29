@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Open128)(type Legacy)(uri ${KIPRJMOD}/Libraries/Open128.lib)(options "")(descr ""))
+  (lib (name Open128-rescue)(type Legacy)(uri ${KIPRJMOD}/Open128-rescue.lib)(options "")(descr ""))
 )
